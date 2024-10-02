@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Web3.js, contract auditing**
 
--👦 Pronouns: He/Him
+- 👦 Pronouns: He/Him
 
 - 💬 Ask me about **blockchain, solidity , js**
 
