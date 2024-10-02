@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning **Web3.js, contract auditing**
 
+-👦 Pronouns: He/Him
 
 - 💬 Ask me about **blockchain, solidity , js**
 
 - 📫 How to reach me **gathenya001@gmail.com**
 
-
-- ⚡ Fun fact **I'm not lazyyy**
+- ⚡ Fun fact **Debugging is just a fancy way of saying 'sip coffee, stare at code, repeat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
