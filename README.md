@@ -12,12 +12,12 @@
 
 <p align="left"> <a href="https://twitter.com/Gathenyac" target="blank"><img src="https://img.shields.io/twitter/follow/Gathenyac?logo=twitter&style=for-the-badge" alt="Gathenya " /></a> </p>
 
-- 🔭 I’m currently working on <b>Solidity, React, Flutter, Nodejs, Nextjs</b>
+- 🔭 I’m currently working on <b>Solidity, React, smart contracts,Solidity development</b>
 
-- 🌱 I’m currently learning **Web3.js, Solidity development,  Smart Contracts**
+- 🌱 I’m currently learning **Web3.js, contract auditing**
 
 
-- 💬 Ask me about **react, solidity , next.js, Node.js, Mongodb & Express**
+- 💬 Ask me about **blockchain, solidity , js**
 
 - 📫 How to reach me **gathenya001@gmail.com**
 
