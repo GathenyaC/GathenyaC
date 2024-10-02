@@ -7,7 +7,7 @@
 
   <p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">viaGIPHY</a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanth137&label=Profile%20views&color=0e75b6&style=flat" alt="jayanth137" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gathenyac&label=Profile%20views&color=0e75b6&style=flat" alt="gathenyac" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/Gathenyac" target="blank"><img src="https://img.shields.io/twitter/follow/Gathenyac?logo=twitter&style=for-the-badge" alt="Gathenya " /></a> </p>
