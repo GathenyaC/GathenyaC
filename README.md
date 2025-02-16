@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **gathenya001@gmail.com**
 
-- ⚡ Fun fact **Debugging is just a fancy way of saying 'sip coffee, stare at code, repeat.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
